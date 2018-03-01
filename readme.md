@@ -5,11 +5,8 @@ Speaker: Harrison Kim
 What is Sketch App:
 http://blog.creativelive.com/what-is-sketchapp-and-why-you-should-be-using-it/
 
-Sketch Website:
+Sketch Website: (Free trial link on the top right corner of the site)
 http://www.sketchapp.com
-
-Direct download link:
-http://www.sketchapp.com/static/download/sketch.zip
 
 My Favorite Online Library of Sketch Resources:
 https://www.sketchappsources.com/
