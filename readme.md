@@ -2,12 +2,11 @@
 
 Speaker: Harrison Kim
 
-What is Sketch App:
-http://blog.creativelive.com/what-is-sketchapp-and-why-you-should-be-using-it/
-
-Sketch Website(should automatically download 30-day trial version): 
+Sketch App - Download the free 30-day trial: 
 http://www.sketchapp.com/get
 
+What is Sketch App:
+http://blog.creativelive.com/what-is-sketchapp-and-why-you-should-be-using-it/
 
 My Favorite Online Library of Sketch Resources:
 https://www.sketchappsources.com/
